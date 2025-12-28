@@ -4,6 +4,7 @@ L910-Framework
 
 Сущности:
 visitors.json — посетители (string: name, number: age, boolean: hasLocker, Date: lastVisit, Array: favoritePools)
+
 coaches.json — тренеры (string: name, number: salary, boolean: isActive, Date: hireDate, Array: certifications)
 
 Маршруты:

@@ -1,0 +1,10 @@
+{
+  "name": "l910-framework",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node main-server.js"
+  },
+  "author": "Ваша команда",
+  "license": "MIT"
+}

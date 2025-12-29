@@ -1,0 +1,18 @@
+[
+  {
+    "id": "vis-001",
+    "name": "Анна Петрова",
+    "age": 28,
+    "email": "anna@example.com",
+    "phone": "+7 (912) 345-67-89",
+    "membershipType": "Премиум",
+    "hasLocker": true,
+    "visitCount": 45,
+    "lastVisit": "2024-09-15T10:30:00.000Z",
+    "registrationDate": "2023-01-15T09:00:00.000Z",
+    "subscriptionEndDate": "2024-12-31T23:59:59.999Z",
+    "favoritePools": ["Олимпийский", "Детский", "Глубокий"],
+    "medicalNotes": ["Аллергия на хлор", "Носит очки для плавания"],
+    "preferredTimeSlots": ["утро", "вечер"]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "coach-001",
+    "name": "Олег Николаев",
+    "age": 45,
+    "specialization": "Плавание",
+    "certificationLevel": "Мастер-тренер",
+    "email": "oleg@pool.com",
+    "phone": "+7 (901) 234-56-78",
+    "isActive": true,
+    "hasFirstAidCert": true,
+    "hireDate": "2020-03-15T00:00:00.000Z",
+    "monthlySalary": 75000,
+    "clientsCount": 85,
+    "workSchedule": ["Понедельник", "Среда", "Пятница"],
+    "certifications": ["Тренер высшей категории", "Инструктор по спасению"],
+    "achievements": ["Подготовил 5 мастеров спорта"],
+    "languages": ["Русский", "Английский"],
+    "specialSkills": ["Работа с детьми", "Реабилитационное плавание"]
+  }
+]

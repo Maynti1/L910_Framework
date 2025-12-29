@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ticket-001",
+    "movieId": "movie-001",
+    "seat": "A12",
+    "price": 450,
+    "type": "стандарт",
+    "isSold": true,
+    "purchaseDate": "2024-09-28T18:30:00.000Z",
+    "sessionTime": "2024-09-28T20:00:00.000Z",
+    "hall": 3,
+    "customer": "Иван Иванов",
+    "benefits": ["попкорн бесплатно", "скидка на напиток"],
+    "paymentMethod": "карта"
+  },
+  {
+    "id": "ticket-002",
+    "movieId": "movie-002",
+    "seat": "B7",
+    "price": 350,
+    "type": "детский",
+    "isSold": false,
+    "purchaseDate": null,
+    "sessionTime": "2024-09-29T16:00:00.000Z",
+    "hall": 1,
+    "customer": "",
+    "benefits": ["скидка 10%"],
+    "paymentMethod": ""
+  }
+]
